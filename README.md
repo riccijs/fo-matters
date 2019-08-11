@@ -41,6 +41,7 @@ import fo from 'fo-matters'
 (note that using `latest` is taking a significant risk that fo-matters API changes could break your code.)
 
 
+
 API
 -------------
 
@@ -93,5 +94,5 @@ fo.stripCurrency('$91,234.56')
 Acknowledgements
 -----------------
 
-Thanks to Bryan Ricci
+Thanks to Bryan Ricci!
 License [MIT](https://opensource.org/licenses/MIT).
