@@ -1,0 +1,25 @@
+{
+  "name": "fo-matters",
+  "version": "0.2.0",
+  "description": "Helpful formatting tools for strings and numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/riccijs/fo-matters.git"
+  },
+  "keywords": [
+    "formatting",
+    "formats",
+    "strings",
+    "numbers"
+  ],
+  "author": "Bryan Ricci",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/riccijs/fo-matters/issues"
+  },
+  "homepage": "https://github.com/riccijs/fo-matters#readme"
+}
